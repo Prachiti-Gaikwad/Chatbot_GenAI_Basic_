@@ -15,9 +15,9 @@ st.title("LangChain Chat with AstraDB Vector Search and OpenAI")
 st.markdown("Chat using a LangChain-powered chatbot with vector embeddings stored in AstraDB!")
 
 # Get OpenAI API Key and AstraDB Token from the user
-astra_db_token = 'AstraCS:mOzkXtCEkZlKFOZQFajBempt:1d0863c0882c79d2c5cdb6830ec329dd85bf3aa521dca130854191456fe0c300'
+astra_db_token = ''
 
-openai_api_key = "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"
+openai_api_key = ""
 
 # Initialize OpenAI API
 if openai_api_key:
