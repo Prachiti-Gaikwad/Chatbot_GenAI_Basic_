@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 
 with st.sidebar:
-    openai_api_key ="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"
+    openai_api_key =""
  
 st.title("💬 Chatbot")
 st.caption("🚀 A chatbot powered by Gen AI")
