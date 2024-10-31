@@ -6,7 +6,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.tools import DuckDuckGoSearchRun
 
 with st.sidebar:
-    openai_api_key = "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"
+    openai_api_key = ""
     #"[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
     #"[View the source code](https://github.com/streamlit/llm-examples/blob/main/pages/2_Chat_with_search.py)"
     #"[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
